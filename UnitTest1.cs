@@ -2,7 +2,6 @@
 using System;
 using System.Json;
 using System.Net;
-using NUnit.Framework;
 using RA;
 
 namespace weApiTest

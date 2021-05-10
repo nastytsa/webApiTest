@@ -18,7 +18,6 @@ E:\study\testing\webApi\weApiTest\bin\Debug\Newtonsoft.Json.xml
 E:\study\testing\webApi\weApiTest\bin\Debug\Newtonsoft.Json.Schema.xml
 E:\study\testing\webApi\weApiTest\bin\Debug\nunit.framework.xml
 E:\study\testing\webApi\weApiTest\bin\Debug\System.Json.xml
-E:\study\testing\webApi\weApiTest\obj\Debug\weApiTest.csprojAssemblyReference.cache
 E:\study\testing\webApi\weApiTest\obj\Debug\weApiTest.csproj.CoreCompileInputs.cache
 E:\study\testing\webApi\weApiTest\obj\Debug\weApiTest.csproj.CopyComplete
 E:\study\testing\webApi\weApiTest\obj\Debug\weApiTest.dll
